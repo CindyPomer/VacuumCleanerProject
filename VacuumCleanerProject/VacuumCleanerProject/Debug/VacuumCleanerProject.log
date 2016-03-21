@@ -1,0 +1,25 @@
+﻿Build started 21/03/2016 01:02:36.
+     1>Project "C:\Users\Cindy pomer\Documents\לימודים\עבודה בC++\movedHouseSol\VacuumCleanerProject\VacuumCleanerProject\VacuumCleanerProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt House.cpp Main.cpp Simulation.cpp SimulationPrintUtils.cpp
+         Simulation.cpp
+         House.cpp
+     1>c:\users\cindy pomer\documents\לימודים\עבודה בc++\movedhousesol\vacuumcleanerproject\vacuumcleanerproject\house.cpp(8): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\cindy pomer\documents\לימודים\עבודה בc++\movedhousesol\vacuumcleanerproject\vacuumcleanerproject\house.cpp(9): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Main.cpp
+         SimulationPrintUtils.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Cindy pomer\Documents\לימודים\עבודה בC++\movedHouseSol\VacuumCleanerProject\Debug\VacuumCleanerProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Cindy pomer\Documents\לימודים\עבודה בC++\movedHouseSol\VacuumCleanerProject\Debug\VacuumCleanerProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Cindy pomer\Documents\לימודים\עבודה בC++\movedHouseSol\VacuumCleanerProject\Debug\VacuumCleanerProject.lib" /MACHINE:X86 Debug\ConsoleUtils.obj
+         Debug\House.obj
+         Debug\Main.obj
+         Debug\Point.obj
+         Debug\Simulation.obj
+         Debug\SimulationPrintUtils.obj
+         VacuumCleanerProject.vcxproj -> C:\Users\Cindy pomer\Documents\לימודים\עבודה בC++\movedHouseSol\VacuumCleanerProject\Debug\VacuumCleanerProject.exe
+     1>Done Building Project "C:\Users\Cindy pomer\Documents\לימודים\עבודה בC++\movedHouseSol\VacuumCleanerProject\VacuumCleanerProject\VacuumCleanerProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.74
